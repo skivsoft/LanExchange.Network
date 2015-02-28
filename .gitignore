@@ -1,7 +1,4 @@
-﻿################################################################################
-# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
-################################################################################
-
-/LanExchange.Network/bin/Debug
-/LanExchange.Network/obj/Debug
-*.suo
+﻿*.suo
+/bin
+/obj
+/LanExchange.Network.sln.GhostDoc.xml
