@@ -1,4 +1,4 @@
-﻿*.suo
-/bin
+﻿/bin
 /obj
 /LanExchange.Network.sln.GhostDoc.xml
+*.suo
