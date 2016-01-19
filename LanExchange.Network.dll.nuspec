@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>LanExchange.Network.dll</id>
+    <version>1.0.1</version>
+    <authors>Kostya Mikhailyuk</authors>
+    <owners>Kostya Mikhailyuk</owners>
+    <licenseUrl>https://github.com/LanExchange/LanExchange.Network/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/LanExchange/LanExchange.Network</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Managed Windows Network Api Wrapper.</description>
+    <releaseNotes>## Wrapped functions
+- NetWkstaGetInfo
+- NetApiBufferFree
+- NetServerEnum
+- NetServerEnumEx
+- NetServerGetInfo
+- NetServerSetInfo
+- NetShareEnum
+- NetWkstaUserEnum</releaseNotes>
+    <tags>Windows, Api, Network</tags>
+    <dependencies/>
+  </metadata>
+</package>
